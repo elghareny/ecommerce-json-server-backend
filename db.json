@@ -1,5 +1,4 @@
 {
-    "data": {
         "users": [{
                 "email": "mohamed1192000@gmail.com",
                 "password": "$2a$10$TGkXg5WimE9Gmn9An3gHve.6XXd0tz0dvB01VlQgmUZpyBgrQXjJK",
@@ -12095,5 +12094,4 @@
                 "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Women's%20Wrist%20Watch/thumbnail.png"
             }
         ]
-    }
 }
