@@ -1,6 +1,7 @@
 {
     "data": {
-        "categories": [{
+        "categories": [
+            {
                 "id": 1,
                 "name": "Beauty",
                 "slug": "beauty",
@@ -145,9 +146,11 @@
                 "url": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
-        "orders": [{
+        "orders": [
+            {
                 "id": 1,
-                "items": [{
+                "items": [
+                    {
                         "id": 7,
                         "price": 129.99,
                         "quantity": 2,
@@ -181,7 +184,8 @@
             },
             {
                 "id": 2,
-                "items": [{
+                "items": [
+                    {
                         "id": 99,
                         "price": 99.99,
                         "quantity": 1,
@@ -236,7 +240,8 @@
             },
             {
                 "id": 3,
-                "items": [{
+                "items": [
+                    {
                         "id": 8,
                         "price": 89.99,
                         "quantity": 4,
@@ -417,18 +422,21 @@
             },
             {
                 "id": 4,
-                "items": [{
-                    "id": 1,
-                    "price": 9.99,
-                    "quantity": 4,
-                    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
-                    "title": "Essence Mascara Lash Princess"
-                }],
+                "items": [
+                    {
+                        "id": 1,
+                        "price": 9.99,
+                        "quantity": 4,
+                        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+                        "title": "Essence Mascara Lash Princess"
+                    }
+                ],
                 "subtotal": 39.96,
                 "userId": 1
             }
         ],
-        "products": [{
+        "products": [
+            {
                 "availabilityStatus": "Low Stock",
                 "brand": "Essence",
                 "category": "beauty",
@@ -453,7 +461,8 @@
                 "price": 9.99,
                 "rating": 4.94,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.618Z",
                         "rating": 2,
@@ -512,7 +521,8 @@
                 "price": 19.99,
                 "rating": 3.28,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.618Z",
                         "rating": 4,
@@ -571,7 +581,8 @@
                 "price": 14.99,
                 "rating": 3.82,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.618Z",
                         "rating": 5,
@@ -630,7 +641,8 @@
                 "price": 12.99,
                 "rating": 2.51,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 5,
@@ -689,7 +701,8 @@
                 "price": 8.99,
                 "rating": 3.91,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 5,
@@ -750,7 +763,8 @@
                 "price": 49.99,
                 "rating": 4.85,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 5,
@@ -811,7 +825,8 @@
                 "price": 129.99,
                 "rating": 2.76,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 1,
@@ -872,7 +887,8 @@
                 "price": 89.99,
                 "rating": 3.31,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 5,
@@ -933,7 +949,8 @@
                 "price": 69.99,
                 "rating": 2.68,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.619Z",
                         "rating": 4,
@@ -994,7 +1011,8 @@
                 "price": 79.99,
                 "rating": 2.69,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1055,7 +1073,8 @@
                 "price": 1899.99,
                 "rating": 4.14,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1116,7 +1135,8 @@
                 "price": 2499.99,
                 "rating": 3.08,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1177,7 +1197,8 @@
                 "price": 299.99,
                 "rating": 4.48,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1238,7 +1259,8 @@
                 "price": 499.99,
                 "rating": 4.11,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1299,7 +1321,8 @@
                 "price": 799.99,
                 "rating": 3.26,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1357,7 +1380,8 @@
                 "price": 1.99,
                 "rating": 2.96,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1414,7 +1438,8 @@
                 "price": 12.99,
                 "rating": 2.83,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1471,7 +1496,8 @@
                 "price": 8.99,
                 "rating": 2.88,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1530,7 +1556,8 @@
                 "price": 9.99,
                 "rating": 4.61,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1587,7 +1614,8 @@
                 "price": 4.99,
                 "rating": 4.01,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1644,7 +1672,8 @@
                 "price": 1.49,
                 "rating": 4.71,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1701,7 +1730,8 @@
                 "price": 10.99,
                 "rating": 2.74,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1759,7 +1789,8 @@
                 "price": 2.99,
                 "rating": 4.46,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 2,
@@ -1816,7 +1847,8 @@
                 "price": 14.99,
                 "rating": 4.83,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -1873,7 +1905,8 @@
                 "price": 1.29,
                 "rating": 4.28,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -1930,7 +1963,8 @@
                 "price": 0.99,
                 "rating": 4.43,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 2,
@@ -1987,7 +2021,8 @@
                 "price": 6.99,
                 "rating": 3.5,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -2047,7 +2082,8 @@
                 "price": 5.49,
                 "rating": 3.77,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -2104,7 +2140,8 @@
                 "price": 3.99,
                 "rating": 3.41,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -2161,7 +2198,8 @@
                 "price": 2.49,
                 "rating": 4.37,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -2218,7 +2256,8 @@
                 "price": 0.79,
                 "rating": 4.25,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 4,
@@ -2275,7 +2314,8 @@
                 "price": 3.49,
                 "rating": 3.14,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.620Z",
                         "rating": 5,
@@ -2332,7 +2372,8 @@
                 "price": 4.99,
                 "rating": 3.19,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2389,7 +2430,8 @@
                 "price": 7.99,
                 "rating": 2.54,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -2447,7 +2489,8 @@
                 "price": 2.29,
                 "rating": 3.82,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2504,7 +2547,8 @@
                 "price": 19.99,
                 "rating": 3.91,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 1,
@@ -2561,7 +2605,8 @@
                 "price": 1.99,
                 "rating": 4.08,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2618,7 +2663,8 @@
                 "price": 5.99,
                 "rating": 3.94,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2675,7 +2721,8 @@
                 "price": 1.99,
                 "rating": 4.59,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 3,
@@ -2732,7 +2779,8 @@
                 "price": 3.99,
                 "rating": 4.5,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2790,7 +2838,8 @@
                 "price": 2.49,
                 "rating": 4.55,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -2847,7 +2896,8 @@
                 "price": 0.99,
                 "rating": 2.93,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -2906,7 +2956,8 @@
                 "price": 59.99,
                 "rating": 3.56,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -2964,7 +3015,8 @@
                 "price": 29.99,
                 "rating": 3.84,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 1,
@@ -3024,7 +3076,8 @@
                 "price": 39.99,
                 "rating": 3.61,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -3085,7 +3138,8 @@
                 "price": 14.99,
                 "rating": 3.33,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3143,7 +3197,8 @@
                 "price": 49.99,
                 "rating": 4.56,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 3,
@@ -3201,7 +3256,8 @@
                 "price": 7.99,
                 "rating": 4.4,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3260,7 +3316,8 @@
                 "price": 5.99,
                 "rating": 3.62,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3318,7 +3375,8 @@
                 "price": 9.99,
                 "rating": 2.88,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 1,
@@ -3379,7 +3437,8 @@
                 "price": 39.99,
                 "rating": 2.73,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -3437,7 +3496,8 @@
                 "price": 29.99,
                 "rating": 2.94,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3495,7 +3555,8 @@
                 "price": 12.99,
                 "rating": 4.82,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very disappointed!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 1,
@@ -3553,7 +3614,8 @@
                 "price": 8.99,
                 "rating": 4.18,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -3611,7 +3673,8 @@
                 "price": 6.99,
                 "rating": 2.91,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -3672,7 +3735,8 @@
                 "price": 49.99,
                 "rating": 4.84,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3730,7 +3794,8 @@
                 "price": 9.99,
                 "rating": 3.7,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 4,
@@ -3788,7 +3853,8 @@
                 "price": 3.99,
                 "rating": 4.18,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.621Z",
                         "rating": 5,
@@ -3846,7 +3912,8 @@
                 "price": 4.99,
                 "rating": 3.06,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Waste of money!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 1,
@@ -3904,7 +3971,8 @@
                 "price": 10.99,
                 "rating": 2.87,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -3962,7 +4030,8 @@
                 "price": 34.99,
                 "rating": 3.71,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4020,7 +4089,8 @@
                 "price": 5.99,
                 "rating": 3.27,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4078,7 +4148,8 @@
                 "price": 7.99,
                 "rating": 2.96,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4136,7 +4207,8 @@
                 "price": 14.99,
                 "rating": 4.31,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4194,7 +4266,8 @@
                 "price": 12.99,
                 "rating": 2.84,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4255,7 +4328,8 @@
                 "price": 89.99,
                 "rating": 2.71,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4314,7 +4388,8 @@
                 "price": 15.99,
                 "rating": 4.34,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not as described!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 3,
@@ -4372,7 +4447,8 @@
                 "price": 24.99,
                 "rating": 3.4,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4430,7 +4506,8 @@
                 "price": 3.99,
                 "rating": 3.07,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Poor quality!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 3,
@@ -4488,7 +4565,8 @@
                 "price": 6.99,
                 "rating": 3.22,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not recommend!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 2,
@@ -4546,7 +4624,8 @@
                 "price": 39.99,
                 "rating": 3.86,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4604,7 +4683,8 @@
                 "price": 8.99,
                 "rating": 3.77,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4662,7 +4742,8 @@
                 "price": 19.99,
                 "rating": 4.05,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4720,7 +4801,8 @@
                 "price": 4.99,
                 "rating": 3.98,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4778,7 +4860,8 @@
                 "price": 16.99,
                 "rating": 3.2,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4836,7 +4919,8 @@
                 "price": 11.99,
                 "rating": 4.99,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -4894,7 +4978,8 @@
                 "price": 5.99,
                 "rating": 4.41,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -4955,7 +5040,8 @@
                 "price": 1999.99,
                 "rating": 3.13,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -5016,7 +5102,8 @@
                 "price": 1799.99,
                 "rating": 3.14,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 5,
@@ -5076,7 +5163,8 @@
                 "price": 1399.99,
                 "rating": 4.62,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.622Z",
                         "rating": 4,
@@ -5136,7 +5224,8 @@
                 "price": 1099.99,
                 "rating": 2.98,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 4,
@@ -5196,7 +5285,8 @@
                 "price": 1499.99,
                 "rating": 2.98,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very disappointed!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 3,
@@ -5257,7 +5347,8 @@
                 "price": 29.99,
                 "rating": 4.19,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 4,
@@ -5319,7 +5410,8 @@
                 "price": 24.99,
                 "rating": 4.95,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 4,
@@ -5381,7 +5473,8 @@
                 "price": 34.99,
                 "rating": 3.66,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 3,
@@ -5443,7 +5536,8 @@
                 "price": 19.99,
                 "rating": 4.62,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 5,
@@ -5505,7 +5599,8 @@
                 "price": 27.99,
                 "rating": 2.9,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 1,
@@ -5567,7 +5662,8 @@
                 "price": 149.99,
                 "rating": 2.77,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 2,
@@ -5629,7 +5725,8 @@
                 "price": 79.99,
                 "rating": 4.01,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 5,
@@ -5691,7 +5788,8 @@
                 "price": 89.99,
                 "rating": 4.85,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 5,
@@ -5753,7 +5851,8 @@
                 "price": 119.99,
                 "rating": 4.92,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 3,
@@ -5815,7 +5914,8 @@
                 "price": 109.99,
                 "rating": 2.95,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.623Z",
                         "rating": 5,
@@ -5876,7 +5976,8 @@
                 "price": 89.99,
                 "rating": 4.47,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 3,
@@ -5937,7 +6038,8 @@
                 "price": 1499.99,
                 "rating": 2.64,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -5998,7 +6100,8 @@
                 "price": 8999.99,
                 "rating": 3.61,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6059,7 +6162,8 @@
                 "price": 12999.99,
                 "rating": 4.52,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -6120,7 +6224,8 @@
                 "price": 10999.99,
                 "rating": 4.94,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6181,7 +6286,8 @@
                 "price": 13999.99,
                 "rating": 2.97,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 2,
@@ -6241,7 +6347,8 @@
                 "price": 99.99,
                 "rating": 3.52,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -6302,7 +6409,8 @@
                 "price": 129.99,
                 "rating": 4.38,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Waste of money!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 3,
@@ -6361,7 +6469,8 @@
                 "price": 549.99,
                 "rating": 3.11,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Waste of money!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 1,
@@ -6420,7 +6529,8 @@
                 "price": 79.99,
                 "rating": 4.51,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6479,7 +6589,8 @@
                 "price": 99.99,
                 "rating": 4.51,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 3,
@@ -6539,7 +6650,8 @@
                 "price": 19.99,
                 "rating": 3.03,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6599,7 +6711,8 @@
                 "price": 99.99,
                 "rating": 2.61,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6660,7 +6773,8 @@
                 "price": 349.99,
                 "rating": 4.42,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 3,
@@ -6719,7 +6833,8 @@
                 "price": 49.99,
                 "rating": 4.17,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6781,7 +6896,8 @@
                 "price": 29.99,
                 "rating": 4.41,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very disappointed!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 1,
@@ -6841,7 +6957,8 @@
                 "price": 19.99,
                 "rating": 2.99,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -6900,7 +7017,8 @@
                 "price": 14.99,
                 "rating": 2.84,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -6959,7 +7077,8 @@
                 "price": 12.99,
                 "rating": 2.93,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -7018,7 +7137,8 @@
                 "price": 499.99,
                 "rating": 4.05,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 5,
@@ -7080,7 +7200,8 @@
                 "price": 3999.99,
                 "rating": 4.85,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -7141,7 +7262,8 @@
                 "price": 8999.99,
                 "rating": 4.06,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -7203,7 +7325,8 @@
                 "price": 14999.99,
                 "rating": 4.15,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not as described!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 1,
@@ -7265,7 +7388,8 @@
                 "price": 2999.99,
                 "rating": 3.33,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.624Z",
                         "rating": 4,
@@ -7327,7 +7451,8 @@
                 "price": 7499.99,
                 "rating": 2.97,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -7388,7 +7513,8 @@
                 "price": 8.99,
                 "rating": 4.68,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -7449,7 +7575,8 @@
                 "price": 12.99,
                 "rating": 4.81,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 3,
@@ -7510,7 +7637,8 @@
                 "price": 9.99,
                 "rating": 3.97,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -7571,7 +7699,8 @@
                 "price": 199.99,
                 "rating": 3.92,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -7632,7 +7761,8 @@
                 "price": 299.99,
                 "rating": 3.76,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -7693,7 +7823,8 @@
                 "price": 1099.99,
                 "rating": 3.42,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -7754,7 +7885,8 @@
                 "price": 899.99,
                 "rating": 4.96,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 1,
@@ -7815,7 +7947,8 @@
                 "price": 249.99,
                 "rating": 3.1,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -7876,7 +8009,8 @@
                 "price": 399.99,
                 "rating": 2.57,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -7938,7 +8072,8 @@
                 "price": 299.99,
                 "rating": 3.39,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -7999,7 +8134,8 @@
                 "price": 149.99,
                 "rating": 2.56,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8060,7 +8196,8 @@
                 "price": 299.99,
                 "rating": 4.42,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -8121,7 +8258,8 @@
                 "price": 349.99,
                 "rating": 4.14,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8182,7 +8320,8 @@
                 "price": 299.99,
                 "rating": 4.9,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8243,7 +8382,8 @@
                 "price": 499.99,
                 "rating": 3.69,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -8304,7 +8444,8 @@
                 "price": 699.99,
                 "rating": 2.81,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -8365,7 +8506,8 @@
                 "price": 249.99,
                 "rating": 2.83,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8426,7 +8568,8 @@
                 "price": 299.99,
                 "rating": 3.1,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not recommend!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 3,
@@ -8487,7 +8630,8 @@
                 "price": 499.99,
                 "rating": 2.75,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8545,7 +8689,8 @@
                 "price": 19.99,
                 "rating": 3.78,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -8603,7 +8748,8 @@
                 "price": 8.99,
                 "rating": 4.76,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8663,7 +8809,8 @@
                 "price": 24.99,
                 "rating": 2.72,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8721,7 +8868,8 @@
                 "price": 14.99,
                 "rating": 4.15,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 2,
@@ -8779,7 +8927,8 @@
                 "price": 39.99,
                 "rating": 4.98,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 5,
@@ -8837,7 +8986,8 @@
                 "price": 12.99,
                 "rating": 4.43,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -8895,7 +9045,8 @@
                 "price": 29.99,
                 "rating": 3.07,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -8956,7 +9107,8 @@
                 "price": 44.99,
                 "rating": 3.34,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 1,
@@ -9014,7 +9166,8 @@
                 "price": 29.99,
                 "rating": 4.16,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.625Z",
                         "rating": 4,
@@ -9072,7 +9225,8 @@
                 "price": 5.99,
                 "rating": 3.95,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Waste of money!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 1,
@@ -9130,7 +9284,8 @@
                 "price": 17.99,
                 "rating": 3.94,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 5,
@@ -9188,7 +9343,8 @@
                 "price": 9.99,
                 "rating": 4.84,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 5,
@@ -9246,7 +9402,8 @@
                 "price": 49.99,
                 "rating": 4.87,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -9304,7 +9461,8 @@
                 "price": 29.99,
                 "rating": 4.11,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -9362,7 +9520,8 @@
                 "price": 6.99,
                 "rating": 4.77,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not worth the price!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 3,
@@ -9420,7 +9579,8 @@
                 "price": 49.99,
                 "rating": 3.82,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 3,
@@ -9478,7 +9638,8 @@
                 "price": 11.99,
                 "rating": 4.08,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 1,
@@ -9539,7 +9700,8 @@
                 "price": 29.99,
                 "rating": 3.23,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -9600,7 +9762,8 @@
                 "price": 24.99,
                 "rating": 2.99,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -9661,7 +9824,8 @@
                 "price": 34.99,
                 "rating": 2.84,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -9722,7 +9886,8 @@
                 "price": 19.99,
                 "rating": 3.21,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 5,
@@ -9783,7 +9948,8 @@
                 "price": 22.99,
                 "rating": 2.58,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -9845,7 +10011,8 @@
                 "price": 499.99,
                 "rating": 3.87,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -9907,7 +10074,8 @@
                 "price": 599.99,
                 "rating": 3.43,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not buy again!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -9969,7 +10137,8 @@
                 "price": 349.99,
                 "rating": 3.7,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not recommend!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -10030,7 +10199,8 @@
                 "price": 29.99,
                 "rating": 3.57,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very dissatisfied!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -10091,7 +10261,8 @@
                 "price": 19.99,
                 "rating": 2.67,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 5,
@@ -10152,7 +10323,8 @@
                 "price": 34.99,
                 "rating": 3.49,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -10213,7 +10385,8 @@
                 "price": 24.99,
                 "rating": 4.63,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 1,
@@ -10274,7 +10447,8 @@
                 "price": 39.99,
                 "rating": 2.82,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly recommended!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 4,
@@ -10338,7 +10512,8 @@
                 "price": 28999.99,
                 "rating": 4.56,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not recommend!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -10402,7 +10577,8 @@
                 "price": 32999.99,
                 "rating": 2.92,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Disappointing product!",
                         "date": "2024-05-23T08:56:21.626Z",
                         "rating": 2,
@@ -10467,7 +10643,8 @@
                 "price": 24999.99,
                 "rating": 3.93,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -10532,7 +10709,8 @@
                 "price": 36999.99,
                 "rating": 3.47,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -10596,7 +10774,8 @@
                 "price": 31999.99,
                 "rating": 2.96,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -10657,7 +10836,8 @@
                 "price": 49.99,
                 "rating": 3.37,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -10718,7 +10898,8 @@
                 "price": 129.99,
                 "rating": 2.62,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -10779,7 +10960,8 @@
                 "price": 599.99,
                 "rating": 3.52,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -10840,7 +11022,8 @@
                 "price": 39.99,
                 "rating": 4.91,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would not recommend!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 1,
@@ -10901,7 +11084,8 @@
                 "price": 59.99,
                 "rating": 4.94,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not as described!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 1,
@@ -10962,7 +11146,8 @@
                 "price": 129.99,
                 "rating": 4.77,
                 "returnPolicy": "7 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very satisfied!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -11023,7 +11208,8 @@
                 "price": 89.99,
                 "rating": 2.52,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very unhappy with my purchase!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 3,
@@ -11085,7 +11271,8 @@
                 "price": 79.99,
                 "rating": 3,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very happy with my purchase!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -11147,7 +11334,8 @@
                 "price": 49.99,
                 "rating": 2.92,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -11208,7 +11396,8 @@
                 "price": 179.99,
                 "rating": 4.17,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Would buy again!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -11268,7 +11457,8 @@
                 "price": 29.99,
                 "rating": 2.94,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very disappointed!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 3,
@@ -11328,7 +11518,8 @@
                 "price": 24.99,
                 "rating": 2.54,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Awesome product!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 4,
@@ -11388,7 +11579,8 @@
                 "price": 19.99,
                 "rating": 3.32,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Highly impressed!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 5,
@@ -11450,7 +11642,8 @@
                 "price": 19.99,
                 "rating": 4.13,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not as described!",
                         "date": "2024-05-23T08:56:21.627Z",
                         "rating": 1,
@@ -11512,7 +11705,8 @@
                 "price": 79.99,
                 "rating": 4.06,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 5,
@@ -11574,7 +11768,8 @@
                 "price": 49.99,
                 "rating": 4.82,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Excellent quality!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 4,
@@ -11636,7 +11831,8 @@
                 "price": 29.99,
                 "rating": 3.01,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Waste of money!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 3,
@@ -11698,7 +11894,8 @@
                 "price": 34.99,
                 "rating": 4.23,
                 "returnPolicy": "30 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very pleased!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 4,
@@ -11759,7 +11956,8 @@
                 "price": 4999.99,
                 "rating": 2.58,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 5,
@@ -11820,7 +12018,8 @@
                 "price": 15999.99,
                 "rating": 3.41,
                 "returnPolicy": "60 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Great value for money!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 5,
@@ -11881,7 +12080,8 @@
                 "price": 10999.99,
                 "rating": 3.53,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Very disappointed!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 2,
@@ -11943,7 +12143,8 @@
                 "price": 799.99,
                 "rating": 3.03,
                 "returnPolicy": "No return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Not as described!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 1,
@@ -12004,7 +12205,8 @@
                 "price": 129.99,
                 "rating": 2.93,
                 "returnPolicy": "90 days return policy",
-                "reviews": [{
+                "reviews": [
+                    {
                         "comment": "Fast shipping!",
                         "date": "2024-05-23T08:56:21.628Z",
                         "rating": 4,
@@ -12039,14 +12241,24 @@
                 "weight": 8
             }
         ],
-        "users": [{
-            "email": "mohamed1192000@gmail.com",
-            "firstName": "mohamed",
-            "id": 1,
-            "lastName": "said",
-            "password": "$2a$10$TGkXg5WimE9Gmn9An3gHve.6XXd0tz0dvB01VlQgmUZpyBgrQXjJK"
-        }],
-        "wishlist": [{
+        "users": [
+            {
+                "email": "mohamed1192000@gmail.com",
+                "firstName": "mohamed",
+                "id": 1,
+                "lastName": "said",
+                "password": "$2a$10$TGkXg5WimE9Gmn9An3gHve.6XXd0tz0dvB01VlQgmUZpyBgrQXjJK"
+            },
+            {
+                "email": "mohamed@gmail.com",
+                "firstName": "mohamed",
+                "id": 2,
+                "lastName": "usama",
+                "password": "$2a$10$6BbSRNV2FCdwULtSIs2wPOdwgCisrMhRzdgMP9uHBK99oECTFIm4a"
+            }
+        ],
+        "wishlist": [
+            {
                 "id": 29,
                 "productId": 137,
                 "userId": 2
